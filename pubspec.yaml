@@ -1,5 +1,5 @@
 name: gallery_saver
-version: 2.3.3
+version: 2.3.4
 homepage: https://github.com/CarnegieTechnologies/gallery_saver
 publish_to: https://onepub.dev/api/xpdpsdavuh/
 description: Saves images and videos from network or temporary file to external storage. Both images and videos will be visible in Android Gallery and iOS Photos.
