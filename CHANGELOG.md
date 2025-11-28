@@ -1,3 +1,7 @@
+## 2.3.4
+
+* Android native updates
+
 ## 2.3.3
 
 * Update html package version to 1.1.0
